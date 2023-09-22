@@ -36,5 +36,3 @@ mkdocs gh-deploy --config-file mkdocs.yml
 ```
 
 Happy learning!
-
-
