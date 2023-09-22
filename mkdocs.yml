@@ -4,7 +4,7 @@ site_url: https://KTHub.io/
 
 site_author: Sadhvik Chirunomula
 repo_url: "https://github.com/KnowledgeTransferHub/Workshops-Wiki"
-copyright: "Modak KTHub is licensed under MIT"
+copyright: "KTHub is licensed under MIT"
 
 theme:
   name: material
