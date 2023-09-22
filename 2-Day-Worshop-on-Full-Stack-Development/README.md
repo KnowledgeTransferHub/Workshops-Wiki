@@ -4,25 +4,65 @@ Welcome to the 2 Day Full Stack Development Workshop by KTHub! This workshop wil
 
 ## Workshop Schedule
 
-### Day 1: Fundamentals and Backend Development
+## Day 1: Fundamentals and Backend Development
 
-#### Session 1: Introduction and Setup (30 minutes)
+### Session 1: Introduction and Setup (30 minutes)
 
-- Get started with an overview of the workshop and set up your development environment.
+- Welcome participants and introduce the workshop's objectives.
+- Provide an overview of the technologies covered.
+- Help attendees set up their development environment, including Python and Flask installation.
 
-#### Session 2: Python Flask - Sample GET/POST/PUT/DELETE (2.5 hours)
+### Session 2: Python Flask - Sample GET/POST/PUT/DELETE (2.5 hours)
 
-- Dive into Flask, a Python web framework, and learn how to create RESTful APIs for your web application. Explore sample CRUD operations (GET, POST, PUT, DELETE) with hands-on exercises.
+- Dive into Python Flask, a powerful web framework.
+- Explore the fundamental concepts of web development and RESTful APIs.
+- Hands-on exercises:
+  - Create a Flask application.
+  - Implement sample CRUD operations: GET, POST, PUT, DELETE.
+  - Test API endpoints using tools like Postman.
 
-### Day 2: Frontend and Database Integration
+### Session 3: HTML (1.5 hours)
 
-#### Session 3: HTML/CSS/JS (1.5 hours)
+- Introduction to HTML (Hypertext Markup Language).
+- Understand the structure and syntax of HTML.
+- Hands-on practice:
+  - Create a basic HTML webpage.
+  - Add elements like headings, paragraphs, lists, and links.
 
-- Discover the essentials of front-end web development with HTML, CSS, and JavaScript. Build interactive web pages and user interfaces.
+### Session 4: HTML/CSS Integration (1.5 hours)
 
-#### Session 4: PostgreSQL and Database Integration (1.5 hours)
+- Discuss the importance of CSS (Cascading Style Sheets) in web design.
+- Create a more visually appealing webpage by integrating CSS.
+- Hands-on practice:
+  - Link an external CSS stylesheet to the HTML page.
+  - Apply CSS rules to style elements.
+  - Explore CSS selectors, properties, and values.
 
-- Explore PostgreSQL, a powerful open-source relational database. Learn how to integrate it with your Flask application for data storage and retrieval.
+## Day 2: Frontend and Database Integration
+
+### Session 5: HTML/CSS/JS (1.5 hours)
+
+- Combine HTML, CSS, and JavaScript to create interactive web pages.
+- Hands-on practice:
+  - Create a web page with HTML structure.
+  - Apply CSS styles for improved presentation.
+  - Implement JavaScript to add interactivity.
+
+### Session 6: Storing Data (JSON in File) (1.5 hours)
+
+- Discuss data storage options for web applications.
+- Implement data storage using JSON (JavaScript Object Notation) in a local file.
+- Hands-on practice:
+  - Create, read, update, and delete data entries in a JSON file.
+
+### Session 7: PostgreSQL and Database Integration (1 hour)
+
+- Introduce PostgreSQL, an open-source relational database.
+- Discuss the advantages of using a database for data management.
+- Hands-on practice:
+  - Set up a PostgreSQL database.
+  - Integrate PostgreSQL with Flask for data storage and retrieval.
+  - Perform CRUD operations on a real database.
 
 ## Getting Started
 
@@ -31,7 +71,7 @@ Welcome to the 2 Day Full Stack Development Workshop by KTHub! This workshop wil
 
 ## Prerequisites
 
-- Basic knowledge of Python is recommended.
+- Basic knowledge of Python, HTML, CSS, JS and SQL is recommended.
 - Bring your enthusiasm and a laptop with your preferred code editor installed.
 
 ## Workshop Objectives
