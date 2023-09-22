@@ -7,8 +7,7 @@ repo_url: "https://github.com/KnowledgeTransferHub/Workshops-Wiki"
 copyright: "Modak KTHub is licensed under MIT"
 
 theme:
-  name: null
-  custom_dir: cinder
+  name: material
   colorscheme: dracula
   highlightjs: true
   hljs_languages:
@@ -18,13 +17,10 @@ theme:
     - bash
 
 nav:
-  - Home: README.md
+  - Home: index.md
   - Docs:
     - 2-Day-Worshop-on-Full-Stack-Development: 2-Day-Worshop-on-Full-Stack-Development/README.md
-    - Reactors: reactors/README.md
-    - Command Line Interface: cli/README.md
-    - Installation: setup/README.md
-    - Cloud Formation Engine: cfe/README.md
+    - 2-Day-Workshop-on-Front-End-Development: 2-Day-Workshop-on-Front-End-Development/README.md
 
 markdown_extensions:
   - admonition

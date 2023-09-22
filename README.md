@@ -11,8 +11,7 @@ This repository serves as a centralized hub for all the resources related to our
 Explore our range of workshops:
 
 - [2 Day Workshop on Full Stack Development with Flask, HTML, CSS, JS and Postgres](https://github.com/KnowledgeTransferHub/Workshops-Wiki/tree/main/2-Day-Worshop-on-Full-Stack-Development)
-  - Application-with-Local-Json-as-Storage: Workshops-Wiki/2-Day-Worshop-on-Full-Stack-Development/code/backend/app-with-json-storage-README copy.md
-  - Application-with-Postgres-as-Storage: Workshops-Wiki/2-Day-Worshop-on-Full-Stack-Development/code/backend/app-with-db-storage-README.md
+- [2 Day Workshop on Front End Development using ReactJS](https://github.com/KnowledgeTransferHub/Workshops-Wiki/tree/main/2-Day-Worshop-on-Full-Stack-Development)
 
 ## Getting Started
 
