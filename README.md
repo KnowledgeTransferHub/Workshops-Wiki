@@ -29,4 +29,12 @@ This repository and its contents are licensed under [MIT License](https://github
 
 If you have any questions or need assistance, please create an issue in Github with your concern/query.
 
+## Deploy Wiki internal Server
+
+```bash
+mkdocs gh-deploy --config-file mkdocs.yml 
+```
+
 Happy learning!
+
+
