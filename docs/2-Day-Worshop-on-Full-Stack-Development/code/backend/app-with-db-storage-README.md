@@ -83,7 +83,7 @@ If the login is successful, the app will return a JSON response with the followi
 
 3. Create a function to establish a database connection:
 
-    ```Python
+    ```python
     def get_db_connection():
         connection = psycopg2.connect(**db_config)
         return connection
