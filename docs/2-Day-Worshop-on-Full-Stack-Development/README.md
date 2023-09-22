@@ -203,7 +203,7 @@ It is similar for login as well.
 
 2. Create a database connection string:
 
-    ```python
+    ```py linenums="1"
     db_config = {
         'host': 'localhost',
         'database': 'postgres',
@@ -214,7 +214,7 @@ It is similar for login as well.
 
 3. Create a function to establish a database connection:
 
-    ```python
+    ```py linenums="1"
     def get_db_connection():
         connection = psycopg2.connect(**db_config)
         return connection
@@ -222,7 +222,7 @@ It is similar for login as well.
 
 4. Update your app.py file to use the database connection function:
 
-    ```Python
+    ```py linenums="1"
     from flask import Flask, request, jsonify
     from flask_cors import CORS
     import psycopg2
