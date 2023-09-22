@@ -1,1 +1,0 @@
-# 2-Day-Workshop-on-Front-End-Development
