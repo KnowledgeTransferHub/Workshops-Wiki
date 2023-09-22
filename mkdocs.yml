@@ -1,0 +1,32 @@
+site_name: KTHub Docs
+site_description: Welcome to the KTHub documentation.
+site_url: https://KTHub.io/
+
+site_author: Sadhvik Chirunomula
+repo_url: "https://github.com/KnowledgeTransferHub/Workshops-Wiki"
+copyright: "Modak KTHub is licensed under MIT"
+
+theme:
+  name: null
+  custom_dir: cinder
+  colorscheme: dracula
+  highlightjs: true
+  hljs_languages:
+    - yaml
+    - json
+    - shell
+    - bash
+
+nav:
+  - Home: README.md
+  - Docs:
+    - 2-Day-Worshop-on-Full-Stack-Development: 2-Day-Worshop-on-Full-Stack-Development/README.md
+    - Reactors: reactors/README.md
+    - Command Line Interface: cli/README.md
+    - Installation: setup/README.md
+    - Cloud Formation Engine: cfe/README.md
+
+markdown_extensions:
+  - admonition
+  - toc:
+      permalink: true
