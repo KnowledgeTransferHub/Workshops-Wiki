@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+         <loc>https://KTHub.io/</loc>
+         <lastmod>2023-09-22</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://KTHub.io/2-Day-Workshop-on-Front-End-Development/</loc>
+         <lastmod>2023-09-22</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://KTHub.io/2-Day-Worshop-on-Full-Stack-Development/</loc>
+         <lastmod>2023-09-22</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://KTHub.io/2-Day-Worshop-on-Full-Stack-Development/code/backend/app-with-db-storage-README/</loc>
+         <lastmod>2023-09-22</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://KTHub.io/2-Day-Worshop-on-Full-Stack-Development/code/backend/app-with-json-storage-README%20copy/</loc>
+         <lastmod>2023-09-22</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+</urlset>
